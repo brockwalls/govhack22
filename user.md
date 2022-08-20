@@ -16,19 +16,12 @@
 | 3. 	| Brock 	| 52.5 kg |
 
 Leaders
-<img align="Left" width="20%" height="20%" src="./Leader Board.png"> <br>
-
-
-___
-
-
-
-
-
-
-
-
-
-
-
+<img align="Left" width="20%" height="20%" src="./Leader Board.png"> 
+  
+  
+    
+  
+  
+  
+  
 To see this website from a Transport Planners perspective click [Here](Planner_veiw.md) 
