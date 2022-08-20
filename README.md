@@ -5,7 +5,7 @@ This project help with public transport useage
 
 Go to
 ----
-[Users Page](about.md) 
+[Users Page](user.md) 
 
 [Planner](Planner_veiw.md) 
 
