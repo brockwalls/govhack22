@@ -1,6 +1,6 @@
 title: TransCO2
 logo: /cover.jpeg
 description: This app was created for Gov hack 2022 to track and compair Carbon useage on Public transport
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
