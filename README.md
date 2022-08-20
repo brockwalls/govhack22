@@ -14,7 +14,7 @@ Some screenshots of this potential app can be seen below.
 
 <img align="left" width="" height="" src="./moblie.PNG"> 
 
-<img align="left" width="" height="" src="./Images/iphoneapp.png"> 
+<img align="center" width="60%" height="60%" src="./Images/iphoneapp.png"> 
 
 
 
