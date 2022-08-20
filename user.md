@@ -14,10 +14,7 @@
 |-----|---------|---------|	
 | 2. 	| Riley 	| 24.6 kg |
 | 3. 	| Brock 	| 52.5 kg |
----
-
-### Leaders
-<img align= "Right" width="20%" height="20%" src="./Leader Board.png"> 
+<img align= "Right" width="30%" height="30%" src="./Leader Board.png"> 
 
 <img align= "" width="" height="" src="./kg carbon.png"> 
   
