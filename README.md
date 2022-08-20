@@ -12,7 +12,7 @@ The planners side of the Website is [here](Planner_veiw.md)
 Whlist the TransCO2 does work on moblie in the current state with further devlopments a specific moblie app could be developed.
 Some screenshots of this potential app can be seen below.
 
-<img align="left" width="" height="" src="./moblie.PNG"> 
+<!-- img align="left" width="" height="" src="./moblie.PNG" --> 
 
 <img align="center" width="60%" height="60%" src="./Images/iphoneapp.png"> 
 
