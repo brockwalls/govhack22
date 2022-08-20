@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: TransC02
+Description: This app was created for Gov hack 2022 to track and compair Carbon useage on Public transport
+
+github:
+  video_url: https://www.youtube.com/
+  
+  logo: /cover.jpeg
