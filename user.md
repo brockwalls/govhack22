@@ -1,4 +1,4 @@
-#User site 
+# User site 
 ---
 
 
@@ -15,13 +15,13 @@
 | 2. 	| Riley 	| 24.6 kg |
 | 3. 	| Brock 	| 52.5 kg |
 
-Leaders
-<img align="Left" width="20%" height="20%" src="./Leader Board.png"> 
+### Leaders
+<img src="./Leader Board.png"> 
   
   
     
   
   
   
-  
+### Want more? 
 To see this website from a Transport Planners perspective click [Here](Planner_veiw.md) 
