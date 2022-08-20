@@ -11,12 +11,12 @@
 
 ### This Weeks Carbon Leader Board
 | 1. 	| Josh  	| 15.2 kg |	
-|----	|-------	|---------|	
-| 2. 	| Riley 	| 24.6 kg 	|
-| 3. 	| Brock 	| 52.5 kg 	|
+|-----|---------|---------|	
+| 2. 	| Riley 	| 24.6 kg |
+| 3. 	| Brock 	| 52.5 kg |
 
-CO2 Tragets
-<img align="Right" width="50%" height="50%" src="./user_3colour.png"> 
+Leaders
+<img align="Right" width="" height="" src="./Leader Board.png"> 
 
 
 ___
