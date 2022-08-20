@@ -15,10 +15,20 @@
 | 2. 	| Riley 	| 24.6 kg 	|
 | 3. 	| Brock 	| 52.5 kg 	|
 
-<img align="Right" width="" height="" src="./user_3colour.png"> 
+CO2 Tragets
+<img align="Right" width="50%" height="50%" src="./user_3colour.png"> 
 
 
 ___
+
+
+
+
+
+
+
+
+
 
 
 To see this website from a Transport Planners perspective click [Here](Planner_veiw.md) 
