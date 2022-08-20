@@ -2,7 +2,7 @@
 
 This project help with public transport useage
 
-
+<img src="./cover.jpeg" width="70%" height="70%">
 Go to:
 
 [Users Page](user.md) 
