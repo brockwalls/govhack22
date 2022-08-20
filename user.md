@@ -10,11 +10,9 @@
 
 
 ### This Weeks Carbon Leader Board
-| 1. 	| Josh  	| 15.2 kg |	
-|-----|---------|---------|	
-| 2. 	| Riley 	| 24.6 kg |
-| 3. 	| Brock 	| 52.5 kg |
 <img align= "Right" width="" height="" src="./leaders.png"> 
+
+### My Carbon Stats
 
 <img align= "" width="" height="" src="./kg carbon.png"> 
   
