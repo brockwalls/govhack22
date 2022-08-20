@@ -5,7 +5,7 @@
 
 <img align="left" width="" height="" src="./Route.png"> 
 
-### Leader Board
+### This Weeks Carbon Leader Board
 | 1. 	| Josh  	| 15.2 kg 	
 |----	|-------	|---------	
 | 2. 	| Riley 	| 24.6 kg 	
