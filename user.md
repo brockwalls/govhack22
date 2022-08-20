@@ -16,7 +16,7 @@
 | 3. 	| Brock 	| 52.5 kg |
 
 ### Leaders
-<img width="20%" hieght="20%" "20%src="./Leader Board.png"> 
+<img width="20%" height="20%" "20%src="./Leader Board.png"> 
   
   
     
