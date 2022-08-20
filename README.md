@@ -1,8 +1,9 @@
-# Govhack22 
+# Govhack22 Project for Public Transport  
+
+This project help with public transport useage
+
+
+Go to [Users Page](about.md)
+
+
 Brock Walls, Josh Schuck, Riley Small, Franz Strasser, Liam Maki & Max McDonald
-
-
-<img src="./Leader Board.jpg" width="25%" height="25%">
-
-
-Go to [about page](about.md)
