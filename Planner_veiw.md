@@ -1,2 +1,2 @@
 # Planner Space
-<img align="right" width="100" height="100" src="./planner map.png">
+<img align="left" width="500" height="500" src="./planner map.png">
