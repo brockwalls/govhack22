@@ -15,6 +15,11 @@
 ### My Carbon Stats
 
 <img align= "" width="" height="" src="./kg carbon.png"> 
+
+<img align= "" width="" height="" src="./Images/user_3colour.png"> 
+
+
+
   
   
     
