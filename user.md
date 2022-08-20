@@ -3,7 +3,7 @@
 
 ## Your Route
 
-<img align="left" width="2870px" height="1142px" src="./Route.png"> 
+<img align="left" width="" height="" src="./Route.png"> 
 
 ### Leader Board
 | 1. 	| Josh  	| 15.2 kg 	
