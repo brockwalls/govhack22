@@ -19,7 +19,7 @@
 ### Leaders
 <img align= "Right" width="20%" height="20%" src="./Leader Board.png"> 
 
-<img align= "" width="" height="" src="./kg Carbon.jpg"> 
+<img align= "" width="" height="" src="./kg carbon.png"> 
   
   
     
