@@ -15,6 +15,7 @@ The planners side of the Website is [here](Planner_veiw.md)
 - Easy Comparison of route options in terms of both time carbon foot print 
 - A leader board of your friends transport carbon footprint compaired to yours, making a competition out of emissions reduction 
 - A CLear display of your Carbon foot print in the "Carbon Awareness Dash board" to help you make informed decisions 
+
 **Transport Planner Side**
 - A map the most used and Highest emissions bus routes in the network allowing quick identification.
 - This is also displayed in table format increasing the ease of use
