@@ -16,11 +16,11 @@ NOTE: ADD NUMBERS
 
 ### Route Summary Table
 
-| Route ID | kMs | Riders | Carbon Output |
+| Route ID | Revenue (Considering OP cost) | Riders | Carbon Output (t) |
 |----------|-----|--------|---------------|
-| A        | 800 | 2,700  | 17.7 /km      |
-| B        | 700 | 1,800  | 3ton          |
-| C        | 200 | 900    | 2ton          |
+| A        | 5,963,472 | 4,018,512  | 1590      |
+| B        | 2,845,683 | 159,798  | 1130          |
+| C        | 494,973 | 27,795    | 1484          |
 
 
 ## Time to pay off  the "Electric Switch"
