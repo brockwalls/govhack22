@@ -26,6 +26,7 @@ Individuals Can choose how they offset their trip, the Application utilises data
 The project Mapping files utilise a georeferencing algorithm to show projects in the vicinity of the trip so local projects are supported.
 
 <img align= "middle" width="60%" height="60%" src="./Images/appoffset.png"> 
+<img align= "" width="60%" height="60%" src="./offset.png> 
 
 
 ### Want more? 
