@@ -6,9 +6,6 @@
 
 <img align="left" width="" height="" src="./Route.png"> 
 
-
-
-
 ### This Weeks Carbon Leader Board
 <img align= "Right" width="" height="" src="./leaders.png"> 
 
@@ -18,13 +15,5 @@
 
 <img align= "" width="" height="" src="./Images/user_3colour.png"> 
 
-
-
-  
-  
-    
-  
-  
-  
 ### Want more? 
 To see this website from a Transport Planners perspective click [Here](Planner_veiw.md) 
