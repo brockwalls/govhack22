@@ -2,9 +2,8 @@
 
 See Below: Canberra's Most userd and CO2 generating Bus routes. 
 
-<img align="left" width="500" height="500" src="./planner map.png">
 
-Legend 
+<img align="" width="500" height="500" src="./planner map.png">
 
 | Route ID | Colour | 
 |----------|--------|
@@ -12,10 +11,10 @@ Legend
 | 200        | Orange |
 | 005        | Yellow | 
 
-NOTE: ADD NUMBERS
+
+
 
 ### Route Summary Table
-
 | Route ID | Revenue per year(Considering OP cost) | Riders per year | Carbon Output (t) per year|
 |----------|-----|--------|---------------|
 | 300        | $5,963,472 | 4,018,512  | 1590      |
