@@ -3,7 +3,7 @@
 See Below: Canberra's Most userd and CO2 generating Bus routes. 
 
 
-<img align="" width="500" height="500" src="./planner map.png">
+<img align="middle" width="500" height="500" src="./planner map.png">
 
 | Route ID | Colour | 
 |----------|--------|
