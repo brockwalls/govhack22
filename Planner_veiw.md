@@ -22,11 +22,6 @@ See Below: Canberra's Most used and CO2 generating Bus routes.
 | 200      | $2,845,683                            | 159,798         | 1130                      |
 | 005      | $494,973                              | 27,795          | 1484                      |
 
-| Route ID | Revenue per year| Riders per year | Carbon output per year 
-|----------|----------------|-----------------|--------------|
-| 300        | 6             | 4,018,512|     |               |
-| 200        | 4             | 159,798 |                       | 
-| 005        | 4             | 27,795 |                      | 
 
   
 ## Areas to target
