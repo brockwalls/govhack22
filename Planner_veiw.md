@@ -8,9 +8,9 @@ Legend
 
 | Route ID | Colour | 
 |----------|--------|
-| A        | Red    | 
-| B        | Orange |
-| C        | Yellow | 
+| 300        | Red    | 
+| 200        | Orange |
+| 005        | Yellow | 
 
 NOTE: ADD NUMBERS
 
@@ -18,9 +18,9 @@ NOTE: ADD NUMBERS
 
 | Route ID | Revenue (Considering OP cost) | Riders | Carbon Output (t) |
 |----------|-----|--------|---------------|
-| A        | 5,963,472 | 4,018,512  | 1590      |
-| B        | 2,845,683 | 159,798  | 1130          |
-| C        | 494,973 | 27,795    | 1484          |
+| 300        | 5,963,472 | 4,018,512  | 1590      |
+| 200        | 2,845,683 | 159,798  | 1130          |
+| 005        | 494,973 | 27,795    | 1484          |
 
 
 ## Time to pay off  the "Electric Switch"
