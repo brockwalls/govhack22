@@ -17,9 +17,9 @@ See Below: Canberra's Most used and CO2 generating Bus routes.
 ### Route Summary Table
 | Route ID | Revenue per year(Considering OP cost) | Riders per year | Carbon Output (t) per year|
 |----------|---------------------------------------|-----------------|---------------------------|
-| 300      | 5,963,472                            | 4,018,512       | 1590                      |         
-| 200      | 2,845,683                            | 159,798         | 1130                      |
-| 005      | 494,973                              | 27,795          | 1484                      |
+| 300      | $5,963,472                            | 4,018,512       | 1590                      |         
+| 200      | $2,845,683                            | 159,798         | 1130                      |
+| 005      | $494,973                              | 27,795          | 1484                      |
   
 ## Areas to target
 ### Residential heat Map - Residential heat Map overlaid with Existing Routes - Car per house hold map
