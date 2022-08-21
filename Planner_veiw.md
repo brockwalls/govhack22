@@ -24,11 +24,11 @@ NOTE: ADD NUMBERS
 
 
 ## Time to pay off  the "Electric Switch"
-This table displays to route planners how long it would to take to gain benefits from switching to an electric bus at a cost of $800,000
+This table displays to route planners how long it would to take to gain benefits from switching to an electric bus at a cost of approximately $3,000,000
 
 Based off ridership numbers from ____
 
-| Route ID | No. of Busses | Time to pay off Electric Bus  | 
+| Route ID | No. of Elec Busses | Time to pay off Electric Bus  | 
 |----------|--------------|-------------------------------|
 | 300        | 6             | 8 years                       |
 | 200        | 4             | 10 years                       | 
