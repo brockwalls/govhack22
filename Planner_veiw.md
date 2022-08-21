@@ -23,7 +23,7 @@ See Below: Canberra's Most userd and CO2 generating Bus routes.
 
 ## Areas to target
 ### Residential heat Map - Residential heat Map overlaid with Existing Routes - Car per house hold map
-<img width="60%" height="60%" src="./Images/Maps.png>
+<img width="60%" height="60%" src="./Images/Maps.png">
                                    
 ## Time to pay off  the "Electric Switch"
 This table displays to route planners how long it would to take to gain benefits from switching to an electric bus at a cost of approximately $3,000,000.
