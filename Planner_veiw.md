@@ -16,19 +16,27 @@ NOTE: ADD NUMBERS
 
 ### Route Summary Table
 
-| Route ID | Revenue (Considering OP cost) | Riders | Carbon Output (t) |
+| Route ID | Revenue per year(Considering OP cost) | Riders per year | Carbon Output (t) per year|
 |----------|-----|--------|---------------|
-| 300        | 5,963,472 | 4,018,512  | 1590      |
-| 200        | 2,845,683 | 159,798  | 1130          |
-| 005        | 494,973 | 27,795    | 1484          |
+| 300        | $5,963,472 | 4,018,512  | 1590      |
+| 200        | $2,845,683 | 159,798  | 1130          |
+| 005        | $494,973 | 27,795    | 1484          |
 
+### Residential heat Map - Areas to target
 
+<img width="60%" height="60%" src="./Images/TransCO2 - Residential Heatmap.bmp>
+
+### Residential heat Map overlaid with Existing Routes
+<img width="60%" height="60%" src="./Images/Images/TransCO2-ResidentialXBusRoutes.bmp>
+
+### Car per house hold map - more target Areas
+<img width="60%" height="60%" src="./Images/Images/cars per house_colour.bmp
+                                   
 ## Time to pay off  the "Electric Switch"
-This table displays to route planners how long it would to take to gain benefits from switching to an electric bus at a cost of approximately $3,000,000
+This table displays to route planners how long it would to take to gain benefits from switching to an electric bus at a cost of approximately $3,000,000.
+This model uses Brisbanes new Metro "bus' as a case study.
 
-Based off ridership numbers from ____
-
-| Route ID | No. of Elec Busses | Time to pay off Electric Bus  | 
+| Route ID | No. of Elec Busses needed | Time to pay off Electric Bus  | 
 |----------|--------------|-------------------------------|
 | 300        | 6             | 8 years                       |
 | 200        | 4             | 10 years                       | 
