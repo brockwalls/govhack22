@@ -7,8 +7,8 @@ The first being the side of the commuter and the second being the side of the tr
 
 **Start using the website**
   
-  [Commuter Site](user.md)
-  [Network Planner Site](Planner_veiw.md)
+[Commuter Site](user.md)
+[Network Planner Site](Planner_veiw.md)
 
 ### Features of the TransCO2 Website
 
