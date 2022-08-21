@@ -5,8 +5,11 @@ This project aims to used both ABS and ACT supplied data to improve sustainable 
 The TransCO2 website does this by addressing the uptake, CO2 output and Pricing of the ACT's public transport usage from two sides.
 The first being the side of the commuter and the second being the side of the transport planner.
 
-To start using the TransCO2 Website from a Commuter Preceptive please click [here](user.md)
-The planners side of the Website is [here](Planner_veiw.md)
+**Start using the website**
+
+[Commuter Site](user.md)
+
+[Network Planner Site](Planner_veiw.md)
 
 ### Features of the TransCO2 Website
 
