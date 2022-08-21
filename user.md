@@ -12,10 +12,11 @@
 
 <img align= "" width="" height="" src="./kg carbon.png"> 
 
-<img align= "" width="50%" height="50%" src="./Images/user_3colour.png"> <img height="350" hspace="20"/> <img align= "" width="50%" height="50%" src="./Images/user_week.png"> 
+<img align= "left" width="50%" height="50%" src="./Images/user_3colour.png">
+<img align= "right" width="50%" height="50%" src="./Images/user_week.png"> 
 
 ### This Weeks Carbon Leader Board
-<img align= "Right" width="" height="" src="./leaders.png"> 
+<img align= "" width="" height="" src="./leaders.png"> 
 
 
 ### Want more? 
