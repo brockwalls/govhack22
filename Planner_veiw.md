@@ -28,11 +28,11 @@ This table displays to route planners how long it would to take to gain benefits
 
 Based off ridership numbers from ____
 
-| Route ID | Income Total | Time to pay off Electric Bus  | 
+| Route ID | No. of Busses | Time to pay off Electric Bus  | 
 |----------|--------------|-------------------------------|
-| A        |              | 50 days                       |
-| B        |              | 60 days                       | 
-| C        |              | 100 days                      | 
+| 300        | 6             | 8 years                       |
+| 200        | 4             | 10 years                       | 
+| 005        | 4             | 55 years                      | 
 
 
 
