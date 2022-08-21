@@ -21,7 +21,7 @@
 
 ### Carbon Offset Progarm 
 Choose a Project from the emissions reduction fund to offset your transport emissions.
-<img align= "" width="" height="" src="./Images/appoffset.png"> 
+<img align= "middle" width="60%" height="60%" src="./Images/appoffset.png"> 
 
 
 ### Want more? 
