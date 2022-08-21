@@ -5,15 +5,19 @@
 ## Todays Route
 
 <img align="left" width="" height="" src="./Route.png"> 
+  
+  
+
+### My Carbon Awareness Dashboard 
+
+<img align= "" width="" height="" src="./kg carbon.png"> 
+
+<img align= "left" width="80%" height="80%" src="./Images/user_3colour.png"> 
+<img align= "right" width="80%" height="80%" src="./Images/user_bar.png"> 
 
 ### This Weeks Carbon Leader Board
 <img align= "Right" width="" height="" src="./leaders.png"> 
 
-### My Carbon Stats
-
-<img align= "" width="" height="" src="./kg carbon.png"> 
-
-<img align= "" width="" height="" src="./Images/user_3colour.png"> 
 
 ### Want more? 
 To see this website from a Transport Planners perspective click [Here](Planner_veiw.md) 
