@@ -37,3 +37,4 @@ Some screenshots of this potential app can be seen below.
 
 
 Project by: Brock Walls, Josh Schuck, Riley Small, Franz Strasser, Liam Maki & Max McDonald
+<img src="https://raw.githubusercontent.com/brockwalls/govhack22/master/leaders.png">
